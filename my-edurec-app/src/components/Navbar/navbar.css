@@ -1,0 +1,31 @@
+/* navbar.css */
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 1rem;
+  }
+  
+  /* Style the links */
+  Link {
+    text-decoration: none;
+    color: #fff; /* Replace with your preferred text color */
+  }
+  
+  Link:hover {
+    text-decoration: underline;
+  }
+  
+  /* You can add more styles based on your design requirements */
+  

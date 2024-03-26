@@ -1,0 +1,1081 @@
+[{
+  "_id": {
+    "$oid": "65e2ac56bb1dfec82f238af0"
+  },
+  "name": "Patrick Tone",
+  "username": "admin123",
+  "password": "password123",
+  "email": "patricktone123@gmail.com",
+  "DoB": "01/02/63",
+  "role": "admin"
+},{
+  "_id": {
+    "$oid": "65e2aea6bb1dfec82f238af9"
+  },
+  "name": "Mandy Garcia",
+  "username": "teacher1",
+  "password": "password123",
+  "email": "mandygarcia123@gmail.com",
+  "DoB": "05/13/83",
+  "role": "teacher"
+},{
+  "_id": {
+    "$oid": "65e2aea6bb1dfec82f238afa"
+  },
+  "name": "Gordon Lee",
+  "username": "teacher2",
+  "password": "password123",
+  "email": "gordonlee123@gmail.com",
+  "DoB": "08/23/85",
+  "role": "teacher"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238afc"
+  },
+  "name": "Emma Turner",
+  "username": "student2",
+  "password": "password123",
+  "email": "emmaturner123@gmail.com",
+  "DoB": "09/07/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238afd"
+  },
+  "name": "Daniel Smith",
+  "username": "student3",
+  "password": "password123",
+  "email": "danielsmith123@gmail.com",
+  "DoB": "12/14/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238afe"
+  },
+  "name": "Olivia Davis",
+  "username": "student4",
+  "password": "password123",
+  "email": "oliviadavis123@gmail.com",
+  "DoB": "08/02/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238aff"
+  },
+  "name": "William Moore",
+  "username": "student5",
+  "password": "password123",
+  "email": "williammoore123@gmail.com",
+  "DoB": "03/18/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b00"
+  },
+  "name": "Ava White",
+  "username": "student6",
+  "password": "password123",
+  "email": "avawhite123@gmail.com",
+  "DoB": "10/29/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b01"
+  },
+  "name": "James Harris",
+  "username": "student7",
+  "password": "password123",
+  "email": "jamesharris123@gmail.com",
+  "DoB": "05/08/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b02"
+  },
+  "name": "Sophia Martin",
+  "username": "student8",
+  "password": "password123",
+  "email": "sophiamartin123@gmail.com",
+  "DoB": "11/21/2008",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b03"
+  },
+  "name": "Liam Thompson",
+  "username": "student9",
+  "password": "password123",
+  "email": "liamthompson123@gmail.com",
+  "DoB": "07/12/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b04"
+  },
+  "name": "Isabella Wilson",
+  "username": "student10",
+  "password": "password123",
+  "email": "isabellawilson123@gmail.com",
+  "DoB": "04/05/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b05"
+  },
+  "name": "Logan Evans",
+  "username": "student11",
+  "password": "password123",
+  "email": "loganevans123@gmail.com",
+  "DoB": "09/23/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b06"
+  },
+  "name": "Mia Harris",
+  "username": "student12",
+  "password": "password123",
+  "email": "miaharris123@gmail.com",
+  "DoB": "06/14/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b07"
+  },
+  "name": "Elijah Jackson",
+  "username": "student13",
+  "password": "password123",
+  "email": "elijahjackson123@gmail.com",
+  "DoB": "01/30/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b08"
+  },
+  "name": "Amelia Allen",
+  "username": "student14",
+  "password": "password123",
+  "email": "ameliaallen123@gmail.com",
+  "DoB": "08/09/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b09"
+  },
+  "name": "Carter Turner",
+  "username": "student15",
+  "password": "password123",
+  "email": "carterturner123@gmail.com",
+  "DoB": "03/27/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b0a"
+  },
+  "name": "Avery Mitchell",
+  "username": "student16",
+  "password": "password123",
+  "email": "averymitchell123@gmail.com",
+  "DoB": "10/16/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b0b"
+  },
+  "name": "Grayson Ward",
+  "username": "student17",
+  "password": "password123",
+  "email": "graysonward123@gmail.com",
+  "DoB": "05/04/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b0c"
+  },
+  "name": "Sofia Young",
+  "username": "student18",
+  "password": "password123",
+  "email": "sofiayoung123@gmail.com",
+  "DoB": "12/18/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b0d"
+  },
+  "name": "Jackson Robinson",
+  "username": "student19",
+  "password": "password123",
+  "email": "jacksonrobinson123@gmail.com",
+  "DoB": "07/01/2008",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b0e"
+  },
+  "name": "Lily Walker",
+  "username": "student20",
+  "password": "password123",
+  "email": "lilywalker123@gmail.com",
+  "DoB": "01/14/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b0f"
+  },
+  "name": "Lucas Hall",
+  "username": "student21",
+  "password": "password123",
+  "email": "lucashall123@gmail.com",
+  "DoB": "06/27/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b10"
+  },
+  "name": "Chloe Brooks",
+  "username": "student22",
+  "password": "password123",
+  "email": "chloebrooks123@gmail.com",
+  "DoB": "11/10/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b11"
+  },
+  "name": "Ethan Foster",
+  "username": "student23",
+  "password": "password123",
+  "email": "ethanfoster123@gmail.com",
+  "DoB": "04/22/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b12"
+  },
+  "name": "Layla Phillips",
+  "username": "student24",
+  "password": "password123",
+  "email": "laylaphillips123@gmail.com",
+  "DoB": "09/05/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b13"
+  },
+  "name": "Mason Bryant",
+  "username": "student25",
+  "password": "password123",
+  "email": "masonbryant123@gmail.com",
+  "DoB": "02/18/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b14"
+  },
+  "name": "Harper Turner",
+  "username": "student26",
+  "password": "password123",
+  "email": "harperturner123@gmail.com",
+  "DoB": "07/31/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b15"
+  },
+  "name": "Caleb Adams",
+  "username": "student27",
+  "password": "password123",
+  "email": "calebadams123@gmail.com",
+  "DoB": "01/11/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b16"
+  },
+  "name": "Addison Mitchell",
+  "username": "student28",
+  "password": "password123",
+  "email": "addisonmitchell123@gmail.com",
+  "DoB": "05/24/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b17"
+  },
+  "name": "Henry Wright",
+  "username": "student29",
+  "password": "password123",
+  "email": "henrywright123@gmail.com",
+  "DoB": "10/07/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b0eabb1dfec82f238b18"
+  },
+  "name": "Zoey Adams",
+  "username": "student30",
+  "password": "password123",
+  "email": "zoeyadams123@gmail.com",
+  "DoB": "03/02/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b1a"
+  },
+  "name": "Noah Adams",
+  "username": "student31",
+  "password": "password123",
+  "email": "noahadams123@gmail.com",
+  "DoB": "11/15/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b1b"
+  },
+  "name": "Sophie Turner",
+  "username": "student32",
+  "password": "password123",
+  "email": "sophieturner123@gmail.com",
+  "DoB": "04/28/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b1c"
+  },
+  "name": "Logan Evans",
+  "username": "student33",
+  "password": "password123",
+  "email": "loganevans123@gmail.com",
+  "DoB": "09/02/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b1d"
+  },
+  "name": "Ava Foster",
+  "username": "student34",
+  "password": "password123",
+  "email": "avafoster123@gmail.com",
+  "DoB": "12/09/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b1e"
+  },
+  "name": "Jackson Turner",
+  "username": "student35",
+  "password": "password123",
+  "email": "jacksonturner123@gmail.com",
+  "DoB": "05/22/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b1f"
+  },
+  "name": "Madison Carter",
+  "username": "student36",
+  "password": "password123",
+  "email": "madisoncarter123@gmail.com",
+  "DoB": "10/05/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b20"
+  },
+  "name": "Liam Wilson",
+  "username": "student37",
+  "password": "password123",
+  "email": "liamwilson123@gmail.com",
+  "DoB": "02/18/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b21"
+  },
+  "name": "Emma Hall",
+  "username": "student38",
+  "password": "password123",
+  "email": "emmahall123@gmail.com",
+  "DoB": "07/31/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b22"
+  },
+  "name": "Mason Robinson",
+  "username": "student39",
+  "password": "password123",
+  "email": "masonrobinson123@gmail.com",
+  "DoB": "01/14/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b23"
+  },
+  "name": "Avery Allen",
+  "username": "student40",
+  "password": "password123",
+  "email": "averyallen123@gmail.com",
+  "DoB": "06/27/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b24"
+  },
+  "name": "Olivia Davis",
+  "username": "student41",
+  "password": "password123",
+  "email": "oliviadavis123@gmail.com",
+  "DoB": "11/10/2008",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b25"
+  },
+  "name": "Ethan Moore",
+  "username": "student42",
+  "password": "password123",
+  "email": "ethanmoore123@gmail.com",
+  "DoB": "04/22/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b26"
+  },
+  "name": "Sophia Martin",
+  "username": "student43",
+  "password": "password123",
+  "email": "sophiamartin123@gmail.com",
+  "DoB": "09/05/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b27"
+  },
+  "name": "Lucas Ward",
+  "username": "student44",
+  "password": "password123",
+  "email": "lucasward123@gmail.com",
+  "DoB": "02/18/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b28"
+  },
+  "name": "Isabella Young",
+  "username": "student45",
+  "password": "password123",
+  "email": "isabellayoung123@gmail.com",
+  "DoB": "07/01/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b29"
+  },
+  "name": "Carter Harris",
+  "username": "student46",
+  "password": "password123",
+  "email": "carterharris123@gmail.com",
+  "DoB": "12/24/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b2a"
+  },
+  "name": "Aria Mitchell",
+  "username": "student47",
+  "password": "password123",
+  "email": "ariamitchell123@gmail.com",
+  "DoB": "05/09/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b2b"
+  },
+  "name": "Elijah Phillips",
+  "username": "student48",
+  "password": "password123",
+  "email": "elijahphillips123@gmail.com",
+  "DoB": "10/22/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b2c"
+  },
+  "name": "Charlotte Foster",
+  "username": "student49",
+  "password": "password123",
+  "email": "charlottefoster123@gmail.com",
+  "DoB": "03/04/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b2d"
+  },
+  "name": "Grayson Turner",
+  "username": "student50",
+  "password": "password123",
+  "email": "graysonturner123@gmail.com",
+  "DoB": "08/17/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b2e"
+  },
+  "name": "Harper Robinson",
+  "username": "student51",
+  "password": "password123",
+  "email": "harperrobinson123@gmail.com",
+  "DoB": "01/30/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b2f"
+  },
+  "name": "Liam Hall",
+  "username": "student52",
+  "password": "password123",
+  "email": "liamhall123@gmail.com",
+  "DoB": "06/14/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b30"
+  },
+  "name": "Ava Davis",
+  "username": "student53",
+  "password": "password123",
+  "email": "avadavis123@gmail.com",
+  "DoB": "11/27/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b31"
+  },
+  "name": "Ethan Young",
+  "username": "student54",
+  "password": "password123",
+  "email": "ethanyoung123@gmail.com",
+  "DoB": "04/10/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b13cbb1dfec82f238b32"
+  },
+  "name": "Isabella Turner",
+  "username": "student55",
+  "password": "password123",
+  "email": "isabellaturner123@gmail.com",
+  "DoB": "09/23/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b34"
+  },
+  "name": "Mia Adams",
+  "username": "student56",
+  "password": "password123",
+  "email": "miaadams123@gmail.com",
+  "DoB": "02/07/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b35"
+  },
+  "name": "Elijah Turner",
+  "username": "student57",
+  "password": "password123",
+  "email": "elijahturner123@gmail.com",
+  "DoB": "07/20/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b36"
+  },
+  "name": "Avery Ward",
+  "username": "student58",
+  "password": "password123",
+  "email": "averyward123@gmail.com",
+  "DoB": "12/03/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b37"
+  },
+  "name": "Olivia Mitchell",
+  "username": "student59",
+  "password": "password123",
+  "email": "oliviamitchell123@gmail.com",
+  "DoB": "05/16/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b38"
+  },
+  "name": "Noah Turner",
+  "username": "student60",
+  "password": "password123",
+  "email": "noahturner123@gmail.com",
+  "DoB": "10/29/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b39"
+  },
+  "name": "Sophia Hall",
+  "username": "student61",
+  "password": "password123",
+  "email": "sophiahall123@gmail.com",
+  "DoB": "03/14/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b3a"
+  },
+  "name": "Logan Robinson",
+  "username": "student62",
+  "password": "password123",
+  "email": "loganrobinson123@gmail.com",
+  "DoB": "08/05/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b3b"
+  },
+  "name": "Ava Davis",
+  "username": "student63",
+  "password": "password123",
+  "email": "avadavis123@gmail.com",
+  "DoB": "01/18/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b3c"
+  },
+  "name": "Ethan Carter",
+  "username": "student64",
+  "password": "password123",
+  "email": "ethancarter123@gmail.com",
+  "DoB": "06/02/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b3d"
+  },
+  "name": "Isabella Adams",
+  "username": "student65",
+  "password": "password123",
+  "email": "isabellaadams123@gmail.com",
+  "DoB": "11/15/2008",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b3e"
+  },
+  "name": "Jackson Foster",
+  "username": "student66",
+  "password": "password123",
+  "email": "jacksonfoster123@gmail.com",
+  "DoB": "04/30/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b3f"
+  },
+  "name": "Sophie Ward",
+  "username": "student67",
+  "password": "password123",
+  "email": "sophieward123@gmail.com",
+  "DoB": "09/12/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b40"
+  },
+  "name": "Lucas Turner",
+  "username": "student68",
+  "password": "password123",
+  "email": "lucasturner123@gmail.com",
+  "DoB": "02/25/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b41"
+  },
+  "name": "Aria Wilson",
+  "username": "student69",
+  "password": "password123",
+  "email": "ariawilson123@gmail.com",
+  "DoB": "07/10/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b42"
+  },
+  "name": "Liam Phillips",
+  "username": "student70",
+  "password": "password123",
+  "email": "liamphillips123@gmail.com",
+  "DoB": "12/24/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b43"
+  },
+  "name": "Amelia Young",
+  "username": "student71",
+  "password": "password123",
+  "email": "ameliayoung123@gmail.com",
+  "DoB": "05/07/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b44"
+  },
+  "name": "Carter Mitchell",
+  "username": "student72",
+  "password": "password123",
+  "email": "cartermitchell123@gmail.com",
+  "DoB": "10/20/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b45"
+  },
+  "name": "Layla Turner",
+  "username": "student73",
+  "password": "password123",
+  "email": "laylaturner123@gmail.com",
+  "DoB": "03/03/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b46"
+  },
+  "name": "Mason Evans",
+  "username": "student74",
+  "password": "password123",
+  "email": "masonevans123@gmail.com",
+  "DoB": "08/16/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b47"
+  },
+  "name": "Harper Allen",
+  "username": "student75",
+  "password": "password123",
+  "email": "harperallen123@gmail.com",
+  "DoB": "01/29/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b48"
+  },
+  "name": "Elijah Harris",
+  "username": "student76",
+  "password": "password123",
+  "email": "elijahharris123@gmail.com",
+  "DoB": "06/13/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b49"
+  },
+  "name": "Charlotte Turner",
+  "username": "student77",
+  "password": "password123",
+  "email": "charlotteturner123@gmail.com",
+  "DoB": "11/26/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b4a"
+  },
+  "name": "Grayson Wilson",
+  "username": "student78",
+  "password": "password123",
+  "email": "graysonwilson123@gmail.com",
+  "DoB": "04/09/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b4b"
+  },
+  "name": "Ava Mitchell",
+  "username": "student79",
+  "password": "password123",
+  "email": "avamitchell123@gmail.com",
+  "DoB": "09/22/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b4c"
+  },
+  "name": "Caleb Turner",
+  "username": "student80",
+  "password": "password123",
+  "email": "calebturner123@gmail.com",
+  "DoB": "02/05/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b4d"
+  },
+  "name": "Aria Davis",
+  "username": "student81",
+  "password": "password123",
+  "email": "ariadavis123@gmail.com",
+  "DoB": "07/18/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b4e"
+  },
+  "name": "Liam Robinson",
+  "username": "student82",
+  "password": "password123",
+  "email": "liamrobinson123@gmail.com",
+  "DoB": "12/01/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b4f"
+  },
+  "name": "Isabella Carter",
+  "username": "student83",
+  "password": "password123",
+  "email": "isabellacarter123@gmail.com",
+  "DoB": "05/14/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b50"
+  },
+  "name": "Jackson Turner",
+  "username": "student84",
+  "password": "password123",
+  "email": "jacksonturner123@gmail.com",
+  "DoB": "10/27/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b51"
+  },
+  "name": "Sophie Harris",
+  "username": "student85",
+  "password": "password123",
+  "email": "sophieharris123@gmail.com",
+  "DoB": "03/10/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b52"
+  },
+  "name": "Lucas Adams",
+  "username": "student86",
+  "password": "password123",
+  "email": "lucasadams123@gmail.com",
+  "DoB": "08/23/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b53"
+  },
+  "name": "Ava Robinson",
+  "username": "student87",
+  "password": "password123",
+  "email": "avarobinson123@gmail.com",
+  "DoB": "01/06/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b54"
+  },
+  "name": "Ethan Turner",
+  "username": "student88",
+  "password": "password123",
+  "email": "ethanturner123@gmail.com",
+  "DoB": "06/29/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b55"
+  },
+  "name": "Lily Carter",
+  "username": "student89",
+  "password": "password123",
+  "email": "lilycarter123@gmail.com",
+  "DoB": "11/12/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b56"
+  },
+  "name": "Mason Turner",
+  "username": "student90",
+  "password": "password123",
+  "email": "masonturner123@gmail.com",
+  "DoB": "04/25/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b57"
+  },
+  "name": "Harper Harris",
+  "username": "student91",
+  "password": "password123",
+  "email": "harperharris123@gmail.com",
+  "DoB": "09/08/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b58"
+  },
+  "name": "Carter Robinson",
+  "username": "student92",
+  "password": "password123",
+  "email": "carterrobinson123@gmail.com",
+  "DoB": "02/21/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b59"
+  },
+  "name": "Aria Turner",
+  "username": "student93",
+  "password": "password123",
+  "email": "ariaturner123@gmail.com",
+  "DoB": "07/04/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b5a"
+  },
+  "name": "Liam Evans",
+  "username": "student94",
+  "password": "password123",
+  "email": "liamevans123@gmail.com",
+  "DoB": "12/17/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b5b"
+  },
+  "name": "Isabella Hall",
+  "username": "student95",
+  "password": "password123",
+  "email": "isabellahall123@gmail.com",
+  "DoB": "05/30/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b5c"
+  },
+  "name": "Jackson Foster",
+  "username": "student96",
+  "password": "password123",
+  "email": "jacksonfoster123@gmail.com",
+  "DoB": "10/13/2009",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b5d"
+  },
+  "name": "Ava Robinson",
+  "username": "student97",
+  "password": "password123",
+  "email": "avarobinson123@gmail.com",
+  "DoB": "03/28/2011",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b5e"
+  },
+  "name": "Liam Mitchell",
+  "username": "student98",
+  "password": "password123",
+  "email": "liammitchell123@gmail.com",
+  "DoB": "08/10/2012",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b5f"
+  },
+  "name": "Sophia Turner",
+  "username": "student99",
+  "password": "password123",
+  "email": "sophiaturner123@gmail.com",
+  "DoB": "01/23/2010",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b184bb1dfec82f238b60"
+  },
+  "name": "Ethan Hall",
+  "username": "student100",
+  "password": "password123",
+  "email": "ethanhall123@gmail.com",
+  "DoB": "06/05/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e2b1b5bb1dfec82f238b62"
+  },
+  "name": "John Reed",
+  "username": "student1",
+  "password": "password123",
+  "email": "johnreed123@gmail.com",
+  "DoB": "02/25/2013",
+  "role": "student"
+},{
+  "_id": {
+    "$oid": "65e40c32bb1dfec82f238b86"
+  },
+  "name": "Mother Turner",
+  "username": "parent1",
+  "password": "password123",
+  "email": "motherturner123@gmail.com",
+  "DoB": "05/04/83",
+  "role": "parent"
+},{
+  "_id": {
+    "$oid": "65e40c32bb1dfec82f238b87"
+  },
+  "name": "Father Smith",
+  "username": "parent2",
+  "password": "password123",
+  "email": "fathersmith123@gmail.com",
+  "DoB": "07/05/82",
+  "role": "parent"
+},{
+  "_id": {
+    "$oid": "65e40c32bb1dfec82f238b88"
+  },
+  "name": "Mother Davis",
+  "username": "parent3",
+  "password": "password123",
+  "email": "motherdavis123@gmail.com",
+  "DoB": "02/12/63",
+  "role": "parent"
+},{
+  "_id": {
+    "$oid": "65e40c32bb1dfec82f238b89"
+  },
+  "name": "Father Moore",
+  "username": "parent4",
+  "password": "password123",
+  "email": "fathermoore123@gmail.com",
+  "DoB": "09/15/73",
+  "role": "parent"
+},{
+  "_id": {
+    "$oid": "65f59a83e46c2347d8649cca"
+  },
+  "name": "Testing Test",
+  "username": "testing12333",
+  "email": "testing12333",
+  "password": "testing12333",
+  "DoB": "11/23/96",
+  "role": "student"
+}]

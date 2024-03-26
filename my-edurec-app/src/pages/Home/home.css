@@ -4,7 +4,7 @@
 } */
 
 .background-image {
-    background-image: url('../../assets/images/graduation.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)) ,url('../../assets/images/graduation.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: auto;
@@ -19,7 +19,45 @@
     margin-bottom: 2px;
 } */
 
+.container {
+    position: relative;
+}
+
+.text-box {
+    background-color: rgb(49, 47, 47, 0.7);
+    /* opacity: 50%; */
+    display: inline-block;
+    /* border-style: solid;
+    border-width: 5px; */
+    border-color: rgb(203, 215, 203);
+    padding: 2px;
+    text-align: center;
+    position: relative;
+    /* bottom: 10px; */
+    top: 100px;
+    left: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: auto;
+    width: 500px;
+    overflow: hidden;
+}
+
 h1 {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    justify-content: center;
+    color: white;
+}
+p {
+    word-break: break-word;
+    white-space: pre-wrap;
+    padding-bottom: 20px;
+    color: white;
+}
+
+/* h1 {
     display: inline-block;
     position: relative;
     top: 100px;
@@ -29,8 +67,7 @@ h1 {
     left: 40px;
     color: whitesmoke;
     border: solid white;
-    border-radius: 1%;
-    /* background-color: rgba(0, 0, 0, 0.7) */
+    
 }
 
 p {
@@ -42,4 +79,4 @@ p {
     border: solid white;
     margin: 0;
     width: 30%;
-}
+} */

@@ -1,0 +1,8 @@
+resolvers.js
+TEACHERS
+createGrade,
+updateGrade [name, float],
+createAssignment,
+updateAssignment [student, name, grade],
+createAttendance,
+updateAttendance [student, date, present(present, late, absent)]

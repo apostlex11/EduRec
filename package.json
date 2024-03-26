@@ -1,0 +1,19 @@
+{
+  "name": "edurec",
+  "version": "1.0.0",
+  "description": "Education Recorder",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd my-edurec-app && npm run dev\"",
+    "install": "cd server && npm i && cd ../my-edurec-app && npm i",
+    "build": "cd my-edurec-app && npm run build",
+    "launch": "concurrently \"cd server && npm run dev\" \"cd my-edurec-app && npm run dev\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

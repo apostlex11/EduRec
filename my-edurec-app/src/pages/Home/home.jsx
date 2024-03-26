@@ -4,23 +4,30 @@ import './home.css';
 
 const HomePage = () => {
     return (
-        // <div className="container">
-        <div className="background-image">    
-            {/* <img src= {graduation} alt="kids graduating"/> */}
-            <h1>EduRec</h1>
-            <p>
-                Teachers to parents, updates on their childrens 
-                attendance, assignments, and grades.
-                Teachers to parents, updates on their childrens 
-                attendance, assignments, and grades.
-                Teachers to parents, updates on their childrens 
-                attendance, assignments, and grades.
-                Teachers to parents, updates on their childrens 
-                attendance, assignments, and grades.
-                Teachers to parents, updates on their childrens 
-                attendance, assignments, and grades.
-            </p>
-            
+        <div className="container">
+            <div className="background-image">
+                <div className="text-box">
+                    <h1>EduRec</h1>
+                    <p>
+                        Teachers to parents, updates on their childrens
+                        attendance, assignments, and grades.
+                        Teachers to parents, updates on their childrens
+                        attendance, assignments, and grades.
+                        Teachers to parents, updates on their childrens
+                        attendance, assignments, and grades.
+                        Teachers to parents, updates on their childrens
+                        attendance, assignments, and grades.
+                        Teachers to parents, updates on their childrens
+                        attendance, assignments, and grades.
+                    </p>
+                </div>
+
+                <div>
+                    <form>
+                        
+                    </form>
+                </div>
+            </div>
         </div>
     );
 };
